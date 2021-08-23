@@ -1,0 +1,38 @@
+.sec{
+    /* display: flex; */
+    position: relative;
+    box-sizing: border-box;
+    width: 217px;
+    height: 300px;
+    background-color: whitesmoke;
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.5);
+    padding: 5px 0 5px 10px;  
+   left: 1100px;
+}
+img{
+    width: 30vh;
+    height: 25vh;
+    
+}
+.con{
+    margin-left: 10px;
+    display: block;
+    text-align: left; 
+}
+.con h1{
+    font-size: 16px;
+    color: rgb(2, 2, 180);
+}
+.con li{
+    color: teal;
+}
+.con span{
+    font-weight: bold;
+    color: teal;
+    font-size: 30px;
+}
+.con h6{
+    color: teal;
+    margin-top: -5px;
+    
+}
